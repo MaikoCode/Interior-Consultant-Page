@@ -37,9 +37,11 @@
 ## Overview
 
 - Desktop version:
+
 ![screenshot](./desktop-version.png)
 
-- Mobile version
+- Mobile version:
+
 ![screenshot](./mobile-version.png)
 
 ### Built With
